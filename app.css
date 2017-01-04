@@ -1,0 +1,41 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    font-weight: 600;
+    color: #2c3e50;
+    font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.empty {
+    margin-top: 30px;
+}
+
+.right {
+    margin-left: 150px;
+}
+
+.container {
+    margin: 8% auto;
+    background-color: #fff;
+    -webkit-box-shadow: 0px 0px 10px #808080;
+    box-shadow: 0px 0px 10px #808080;
+    max-width: 500px;
+    height: 500px;
+    transition: box-shadow 1s;
+}
+
+    .container:hover {
+        box-shadow: 0px 0px 10px #0026ff;
+    }
+
+.content {
+    padding: 120px 50px;
+}
+
+.footer {
+    padding: 0px 20px;
+    text-align: right;
+}
