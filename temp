@@ -1,0 +1,586 @@
+# searchUrl: http://wx.chinasofti.com/CultureFront/year2017_wx/lotterList
+
+HTTP/1.1 200 OK
+Server: nginx/1.9.3
+Date: Tue, 10 Jan 2017 13:59:26 GMT
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Content-Language: en-US
+Vary: Accept-Encoding
+Content-Length: 11282
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" id="viewport" content="width=640,user-scalable=0, target-densitydpi=320">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>抽奖</title>
+<link rel="stylesheet" href="/CultureFront/static/css/2017/style.css" />
+<link rel="stylesheet" href="/CultureFront/static/css/2016/animate.css" />
+
+
+<script type="text/javascript" src="/CultureFront/static/js/jquery_v1.10.2_min.js"></script>
+<script type="text/javascript" src="/CultureFront/static/js/base64.js"></script>
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script type="text/javascript" src="/CultureFront/static/js/share_wx_hideall.js"></script>
+<script type="text/javascript" src="/CultureFront/static/js/onlyWX.js"></script>
+</head>
+<body>
+	<div class="annual_box">
+	<!--主要内容开始-->
+		<div class="annual_con">
+			<div class="annual_top">
+	        	<div class="winning">
+	            	<h1><img src="/CultureFront/static/images/2017/mobile/drawprize/annual.jpg"></h1>
+					<div class="winning_zjxx">
+						<em><img src="/CultureFront/static/images/2017/mobile/drawprize/annual_tk.png"></em>
+						<h2><label>祝您</label><span></span>中奖</h2>
+					</div>
+	            </div>
+	            <!--效果html开始-->
+				<div id="lottery">
+				    <table border="0" style="width:100%;background:darkgoldenrod;" cellpadding="0" cellspacing="0">
+						<tr>
+							<td class="td0" width="9.6%" height="52px"></td>
+							<td class="td1" width="27%"></td>
+							<td class="td2" width="27%"></td>
+							<td class="td3" width="27%"></td>
+							<td class="td4" width="9.6%"></td>
+						</tr>
+				        <tr>
+							<td class="td5"></td>
+				            <td class="td6 lottery-unit lottery-unit-0"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_01.png"><div class="mask"></div></td>
+				            <td class="td7 lottery-unit lottery-unit-1"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_02.png"><div class="mask"></div></td>
+				            <td class="td8 lottery-unit lottery-unit-2"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_03.png"><div class="mask"></div></td>
+							<td class="td9"></td>
+				        </tr>
+				        <tr>
+							<td class="td10"></td>
+				            <td class="td11 lottery-unit lottery-unit-7"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_08.png"><div class="mask"></div></td>
+				            <td class="td12"><span></span></td>
+				            <td class="td13 lottery-unit lottery-unit-3"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_04.png"><div class="mask"></div></td>
+							<td class="td14"></td>
+				        </tr>
+				        <tr>
+							<td class="td15"></td>
+				            <td class="td16 lottery-unit lottery-unit-6"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_07.png"><div class="mask"></div></td>
+				            <td class="td17 lottery-unit lottery-unit-5"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_06.png"><div class="mask"></div></td>
+				            <td class="td8 lottery-unit lottery-unit-4"><img src="/CultureFront/static/images/2017/mobile/drawprize/prize_05.png"><div class="mask"></div></td>
+							<td class="td19" width="5%"></td>
+				        </tr>
+						<tr>
+							<td class="td20" height="53px"></td>
+							<td class="td21"></td>
+							<td class="td22"></td>
+							<td class="td23"></td>
+							<td class="td24"></td>
+						</tr>
+				    </table>
+				
+				</div>
+				<div class="annual_textbox">
+					<h2><span>中奖规则</span></h2>
+					<p>
+						1、每人每天只有一次抽奖机会，手机或PC端登陆网络年会即可参与，两个平台共享抽奖机会；
+	<br>2、抽奖活动期间，幸运奖以上奖品不可兼得（纪念奖除外）
+	<br>3、奖品设置：<br>
+	网络年会大奖：TCL 4K TV /65寸 (总计1台)<br>
+	特等奖：Huawei Matebook （每周1台）<br>
+	一等奖：iPad Air 2 （每日1部）<br>
+	二等奖：Kindle Paperwhite （每日5台）<br>
+	三等奖：Beats urBeats 耳机 （每日10副）<br>
+	幸运奖：Logitech 无线鼠标 （每日100个）<br>
+	纪念奖：中软国际2017年定制台历
+					</p>
+					<p>
+						兑奖流程：<br>
+	第一步：抽奖，如中奖后，系统会直接弹出对话框。<br>
+	第二步：在对话框里提交收货人姓名、收获详细地址、联系电话和电子邮箱等信息。<br>
+	第三步：提交后页面会提示“提交成功”后 ，请坐等收货吧！若提交未成功，请邮件给网络年会各集团业务线相关接口负责人。由负责人最后提报总公司待处理。
+					</p>
+					<p>
+						备注说明：<br>
+	1、由于春节将近，实时采购与全国供货的不可控性，以上奖品可能存在缺货、断货等风险，届时我们将用同类别同价位的其他产品进行替换，请您谅解；
+	<br>2、活动中奖结果均以系统自动下发的中奖通知为准，本次活动最终解释权归中软国际企业文化部所有。
+					</p>
+				</div>
+			</div>
+			<div class="annual_footer">
+				<img src="/CultureFront/static/images/2017/mobile/drawprize/annual_bottom.png">
+			</div>
+		</div>
+		
+	</div>
+	<!--主要内容结束-->
+	
+	
+	<!--摇过了/正在抽奖/未开始弹出层开始-->
+	<div class="shade"></div>
+	<div class="yaog alert1">
+		<div class="title">温馨提示<span class="close" id="close"></span></div>
+	    <div class="content">
+	        	您今天已经抽过奖了<br/>把机会留到明天吧！
+	    </div>
+	</div>
+    <div class="yaog alert2">
+        <div class="content">
+            	正在提交，请耐心等待...
+        </div>
+    </div>
+	<div class="yaog alert3">
+		<div class="title">温馨提示<span class="close" id="close"></span></div>
+	    <div class="content">
+	   	    	 抽奖活动还没有开始<br/>敬请期待！
+	    </div>
+	</div>
+    <div class="yaog alert4">
+        <div class="content">
+            	看来今天运气不佳<br/>明天再来吧！
+        </div>
+    </div>
+    <div class="yaog alert5">
+        <div class="content">
+            	看来今天抽奖的同学很多<br/>一会再来吧！
+        </div>
+    </div>
+	<div class="yaog alert6">
+		<div class="title">中奖提示<span class="close" id="close"></span></div>
+	    <div class="content" style="padding:2em;">
+	   	    	 恭喜您抽中纪念奖<br/><span style="font-weight:bold;color:#d5002d;">中软国际2017年定制台历</span><br/><br/>我们会安排专人配送至您的区域，由区域负责人统一发放！
+	    </div>
+	</div>
+	<!--摇过了/正在抽奖/未开始弹出层结束-->
+	
+	<div class="prizeaddress"> 
+		<div class="last"> 
+			<div class="bottom"> 
+				<img src="/CultureFront/static/images/2017/mobile/drawprize/cj_bjbott.png" /> 
+			</div> 
+		</div> 
+		<div class="zannual_winning"> 
+			<em><img src="/CultureFront/static/images/2017/mobile/drawprize/cj_bjtop.png" /></em>
+			<div class="annual_results winning_zj" style="display:none;">
+				<img src="/CultureFront/static/images/2017/mobile/drawprize/fh.png" style="position: absolute;z-index: 6;top: -140px;left: 85px;width: 65%;">
+				<p>提交成功，<span>您的奖品正在飞速的向你奔来。</span></p>
+				<b><span>如有问题请发邮件至：<a href="#">csi.cc@chinasofti.com</a></span></b>
+			</div>
+			<div id="userPrizeAddress" class="winning_zj"> 
+				<h1>恭喜获得<i><span id="showPrizeName">iPad Air</span></i></h1> 
+				<h4><img id="showPrizeImage" src="/CultureFront/static/images/2017/mobile/drawprize/prize_03.png" /></h4> 
+				<div class="winning_list"> 
+					<p>姓名：</p> 
+					<input type="text" id="username" class="winning_text" /> 
+					<div class="clear"></div> 
+				</div> 
+				<div class="winning_list"> 
+					<p>电话：</p> 
+					<input type="text" maxlength="11" id="usermobile" class="winning_text" /> 
+					<div class="clear"></div> 
+				</div> 
+				<div class="winning_list"> 
+					<p>地址：</p> 
+					<input type="text" id="useraddress" class="winning_text" /> 
+					<div class="clear"></div> 
+				</div> 
+				<div class="winning_list"> 
+					<p>邮编：</p> 
+					<input type="text" maxlength="6" id="userpostcode" class="winning_text" /> 
+					<div class="clear"></div> 
+				</div> 
+				<div class="winning_sub">立刻领奖</div> 
+			</div> 
+			<i><img src="/CultureFront/static/images/2017/mobile/drawprize/cj_bjbot.png" /></i> 
+		</div> 
+	</div>
+	
+</body>
+<script type="text/javascript">
+document.write('<script type="text/javascript" src="/CultureFront/static/js/2017/draw_prize.js?r='+new Date().getTime()+'"><\/script>');
+</script>
+<script>
+$(function(){
+	setTimeout(function(){
+		var newHeight = $('.annual_top').height()+$('.annual_footer img').height()+30;
+		if(newHeight > 2390){
+			$(".shade").css("height",newHeight+"px");
+		}
+	},3000);
+	draw_prize.init('/CultureFront','08342230455031cee1f1ca629946950e',1,0);
+	share.init('/CultureFront');
+	$("#lottery span").click(draw_prize.doShake);
+	/**
+	$('.alert1').on('touchend',function(){
+		$(".shade").hide();
+		$(".alert1").hide();
+	});
+	$('.alert3').on('touchend',function(){
+		$(".shade").hide();
+		$(".alert3").hide();
+	});
+	*/
+	$(".yaog .close").click(function(){
+		$(".shade").hide();
+		$(this).parent().parent().hide();
+	});
+	$('.alert4').on('touchend',function(){
+		$(".shade").hide();
+		$(".alert4").hide();
+	});
+	$('.alert5').on('touchend',function(){
+		$(".shade").hide();
+		$(".alert5").hide();
+	});
+	$(".winning_sub").click(function(){
+		var username = $("#username").val().trim();
+		var userMobile = $("#usermobile").val().trim();
+		var userAddress = $("#useraddress").val().trim();
+		var userPostcode = $("#userpostcode").val().trim();
+		if(!username){
+			$("#username").attr("placeholder","请填写收货人姓名").focus();
+			return false;
+		}
+		if(userMobile){
+			if(!(/^1[3|4|5|8|7][0-9]\d{4,8}$/.test(userMobile))){ 
+		        $("#usermobile").val("").attr("placeholder","请填写正确的联系人电话").focus();
+		        return false;
+		    } 
+		}else{
+			$("#usermobile").attr("placeholder","请填写收货联系人电话").focus();
+			return false;
+		}
+		if(!userAddress){
+			$("#useraddress").attr("placeholder","请填写收货人地址").focus();
+			return false;
+		}
+		if(userPostcode){
+			if(!(/^[1-9][0-9]{5}$/.test(userPostcode))){
+				$("#userpostcode").val("").attr("placeholder","请填写正确的收货地址邮编").focus();
+				return false;
+			} 
+		}else{
+			$("#userpostcode").attr("placeholder","请填写收货地址邮编").focus();
+			return false;
+		}
+		var postData = {username:username,tel:userMobile,address:userAddress,postalcode:userPostcode,md5Code:draw_prize.md5Code};
+		shadeDiv("alert2",true);
+		$.ajax({
+			type: "post",
+			url: draw_prize.contextPath+'/year2017_wx/lotterAddress',
+			data:postData,
+			cache:false,
+			success: function(data){
+				shadeDiv("alert2",false);
+				data = eval("("+data+")");
+				if(data.code > 0){
+					// 提交成功
+					$("#userPrizeAddress").hide();
+					$(".annual_results").show();
+				}
+			}
+		});
+	});
+});
+function shadeDiv(divClass,show){
+	if(show){
+		$(".shade").show();
+		$("."+divClass).show();
+	}else{
+		$(".shade").hide();
+		$("."+divClass).hide();
+	}
+}
+</script>
+</html>
+
+---------------------------------------------------------------------------------------
+HTTP/1.1 200 OK
+Server: nginx/1.9.3
+Date: Tue, 10 Jan 2017 14:20:09 GMT
+Content-Type: application/javascript; charset=utf-8
+Connection: keep-alive
+Last-Modified: Fri, 30 Dec 2016 13:47:26 GMT
+Vary: Accept-Encoding
+Content-Length: 9106
+
+// 奖品ID信息
+var PrizeInfo = {YearPrize:'19',WeeklyPrize:'20',FirstPrize:'21',SencondPrize:'22',ThirdPrize:'23',LuckyPrize:'24',MemorialPrize:'25',Thanks:'26',ComingSoon:'-2',Drawed:'-1',ERROR:'99'};
+// 奖品ID与转盘索引的对应关系
+var PrizeIndex = {'19':0,'20':1,'21':2,'26':3,'23':4,'22':5,'25':6,'24':7,'-1':-1,'-2':-1,'99':-1};
+var PrizeName = {'19':'TCL 4K TV/65吋一台','20':'Huawei Matebook一台','21':'iPad Air2一台','22':'Kindle Paperwhite一台','23':'Beats urBeats耳机一副','24':'Logitech无线鼠标一个','25':'中软国际2017年定制台历'};
+var PrizeImage = {'19':'prize_01.png','20':'prize_02.png','21':'prize_03.png','22':'prize_06.png','23':'prize_05.png','24':'prize_08.png','25':'prize_07.png'};
+
+// 转盘对象
+var lottery={
+	index:-1,    //当前转动到哪个位置，起点位置
+    count:8,    //总共有多少个位置，共7个奖
+    timer:0,    //setTimeout的ID，用clearTimeout清除
+    speed:20,    //初始转动速度
+    times:0,    //转动次数
+    cycle:50,    //转动基本次数：即至少需要转动多少次再进入抽奖环节
+    prize:-1,    //中奖位置
+    init:function(id){
+    	// 转盘最外层对象
+    	$lottery = $("#"+id);
+    	this.obj = $lottery;
+    	$lottery.find(".lottery-unit-"+this.index).addClass("active");
+    },
+    // 开始转动
+    roll:function(){
+        var index = this.index;
+        var count = this.count;
+        var lottery = this.obj;
+        $(lottery).find(".lottery-unit-"+index).removeClass("active");
+        index += 1;
+        if (index>count-1) {
+            index = 0;
+        };
+        $(lottery).find(".lottery-unit-"+index).addClass("active");
+        this.index=index;
+        return false;
+    },
+    stop:function(index){
+    	// 正常抽奖，滚动降速
+    	this.prize=index;
+        return false;
+    }
+};
+
+// 抽奖对象
+var draw_prize={
+	md5Code : '',
+	userDayPrizeCount : 0,// 已抽奖次数
+	shakeCount : 0,//可抽奖次数
+	contextPath : '',
+	haddleCount:0,
+	drawing:false,//正在抽奖中
+	prizeid:"-99",
+	prizename:"明天再来",
+	prizeRecord:[],
+	prizeRecordIndex : -1,
+	init : function(contextPath,md5Code,userDayPrizeCount,shakeCount){
+		lottery.init("lottery");
+		draw_prize.contextPath = contextPath;
+		draw_prize.userDayPrizeCount = userDayPrizeCount;
+		draw_prize.md5Code = md5Code;
+		draw_prize.shakeCount = shakeCount;
+		$('#shakeCountHead').text(draw_prize.shakeCount);
+		$('#shakeCount').text(draw_prize.shakeCount);
+		// 获取中奖列表（今年是滚动显示中奖列表）
+		$.ajax({
+			type: "post",
+			url: draw_prize.contextPath+'/year2017_wx/lotterList',
+			data:{'md5Code':draw_prize.md5Code},
+			cache:false,
+			success: function(data){
+				data = eval("("+data+")");
+				var list = data.list;
+				if(list.length>0){
+					draw_prize.prizeRecord = list.map(function(obj){
+						var name = obj.nick_name;
+						if(name.length > 4){
+							name = name.substring(0,4);
+						}
+						return name;
+					});
+					setInterval(draw_prize.showRecord,1000);
+				}else{
+					$(".winning_zjxx h2").text("快来碰碰运气吧");
+				}
+			}
+		});
+	},
+	showRecord:function(){
+		draw_prize.prizeRecordIndex += 1;
+		if(draw_prize.prizeRecordIndex >= draw_prize.prizeRecord.length){
+			draw_prize.prizeRecordIndex = 0;
+		}
+		$(".winning_zjxx h2 label").html("恭喜");
+		$(".winning_zjxx span").html(draw_prize.prizeRecord[draw_prize.prizeRecordIndex]);
+	},
+	doShake : function(){
+		if(draw_prize.drawing){
+			return;
+		}
+		/**
+		draw_prize.roll();
+		var timeout = parseInt(Math.random()*10000);
+		var pi = parseInt(Math.random() * 8);
+		console.log(timeout,pi);
+		setTimeout(function(){
+			draw_prize.prizeid = '25';//''+(19 + pi);
+			draw_prize.prizename = "XXX";
+			draw_prize.stopRoll();
+			// error
+			draw_prize.prizeid = '99';
+			draw_prize.stopRoll();
+		},timeout);
+		return;
+		 */
+
+		//校验
+		if(!draw_prize.cando()){
+			$(".shade").show();
+			$(".alert3").show();
+			return;
+		}
+		if(draw_prize.haddleCount == 0){
+			if(draw_prize.shakeCount>0){
+				draw_prize.drawing = true;
+				// 开始转盘，避免给人没转的感觉
+				draw_prize.roll();
+				$(".shade").show();
+				$(".alert2").show();
+				$.ajax({
+					type: "post",
+					url: draw_prize.contextPath+'/year2017_wx/shakePrize',
+					data:{'md5Code':draw_prize.md5Code},
+					cache:false,
+					timeout:10000,
+					success: function(data){
+						$(".shade").hide();
+						$(".alert2").hide();
+						data = eval("("+data+")");
+						var code = data.code;
+						if(code==0){
+							//更新信息
+							draw_prize.shakeCount=0;
+							draw_prize.userDayPrizeCount=1;
+							draw_prize.haddleCount=1;
+							$('#shakeCountHead').text(draw_prize.shakeCount);
+							$('#shakeCount').text(draw_prize.shakeCount);
+							
+							draw_prize.prizeid = data.prize.prizeid;
+							draw_prize.prizename = data.prize.prizename;
+							
+							draw_prize.stopRoll();
+						}else if(code==-1){//地址失效
+							window.location.href = draw_prize.contextPath+'/year2017_wx/close';
+						}
+						
+						draw_prize.drawing = false;
+					},
+					complete : function(XMLHttpRequest,status){
+						if(status == 'timeout' || status == 'error'){
+							// 请求超时或错误，给提示
+							draw_prize.prizeid = '99';
+							draw_prize.stopRoll();
+						}
+					}
+				});
+			}else{
+				$(".shade").show();
+				$(".alert1").show();
+			}
+		}else{
+			$(".shade").show();
+			$(".alert1").show();
+		}
+	},
+	// 展示中奖结果
+	showPrize:function(){
+		if(draw_prize.prizeid == PrizeInfo.Drawed){
+			// 已抽过
+			$(".shade").show();
+			$(".alert1").show();
+		}else if(draw_prize.prizeid == PrizeInfo.ComingSoon){
+			// 抽奖未开始
+			$(".shade").show();
+			$(".alert3").show();
+		}else if(draw_prize.prizeid == PrizeInfo.Thanks){
+			//谢谢参与
+			//$(".shade").show();
+			//$(".alert4").addClass("bounceInDown").delay(500).show(0);
+		}else{
+			// 纪念奖：台历
+			if(draw_prize.prizeid == PrizeInfo.MemorialPrize){
+				shadeDiv("alert6",true);
+			}else if(draw_prize.prizeid == PrizeInfo.ERROR){
+				// 错误
+				shadeDiv("alert5",true);
+			}else{
+				// 重新渲染中奖数据
+				$("#showPrizeName").html(PrizeName[draw_prize.prizeid]);
+				$("#showPrizeImage").attr("src",draw_prize.contextPath + "/static/images/2017/mobile/drawprize/" + PrizeImage[draw_prize.prizeid]);
+				$(".annual_box").hide();
+				$(".prizeaddress").addClass("bounceInDown").delay(500).show(0);
+			}
+		}
+	},
+	// 停止转盘
+	stopRoll:function(){
+		var prizeIndex = PrizeIndex[draw_prize.prizeid];
+		if(prizeIndex > -1){
+        	// 正常抽奖，滚动降速
+			// 结束转动
+			lottery.stop(prizeIndex); 
+        }else{
+        	// 抽奖异常，立即停止
+        	clearTimeout(lottery.timer);
+	        lottery.prize = -1;
+	        lottery.times = 0;
+	        draw_prize.showPrize();
+	        $("#lottery table td.active .mask").hide();
+        }
+		return;
+	},
+	// 启动转盘
+	roll:function(){
+		lottery.times += 1;
+	    lottery.roll();//转动过程调用的是lottery的roll方法，这里是第一次调用初始化
+	    if (lottery.times > (lottery.cycle+10) && lottery.prize == lottery.index) {
+	        clearTimeout(lottery.timer);
+	        lottery.prize = -1;
+	        lottery.times = 0;
+	        setTimeout(draw_prize.showPrize,1000);
+	    }else{
+	        if (lottery.times < lottery.cycle) {
+	            lottery.speed -= 10;
+	        }else if(lottery.times == lottery.cycle) {
+	        	// 转够圈数了
+	        	if(lottery.prize == -1){
+	        		// 还未获取到中奖ID
+	        		// 再多转一会
+	        		lottery.times = 0;      
+	        	}
+	        }else{
+	            if (lottery.times > lottery.cycle+10 && ((lottery.prize==0 && lottery.index==7) || lottery.prize==lottery.index+1)) {
+	                lottery.speed += 110;
+	            }else{
+	                lottery.speed += 20;
+	            }
+	        }
+	        if (lottery.speed<40) {
+	            lottery.speed=40;
+	        };
+	        lottery.timer = setTimeout(draw_prize.roll,lottery.speed);//循环调用
+	    }
+	    return false;
+	},
+	cando : function () {
+	    var beginTime = new Date();
+	    beginTime.setFullYear(2017);
+	    beginTime.setMonth(0);
+	    beginTime.setDate(9);
+	    beginTime.setHours(0);
+	    beginTime.setMinutes(0);
+	    beginTime.setSeconds(0);
+	    beginTime.setMilliseconds(0);
+	    var endTime = new Date();
+	    endTime.setFullYear(2017);
+	    endTime.setMonth(0);
+	    endTime.setDate(22);
+	    endTime.setHours(23);
+	    endTime.setMinutes(59);
+	    endTime.setSeconds(59);
+	    endTime.setMilliseconds(0);
+	    var curTimes = new Date();
+	    var flag = false;
+	    if ((endTime.getTime() >= curTimes.getTime())&& (curTimes.getTime() >= beginTime.getTime())) {
+	    	flag =  true;//在参与时间
+	    }else{
+	    	flag = false;//不在参与时间
+	    }
+	    return flag;
+	}
+};
